@@ -86,10 +86,7 @@ image-text-extractor/
 ├── requirements.txt        # Python dependencies
 ├── templates/
 │   └── index.html         # Web UI
-├── uploads/               # Temp image storage (auto-created)
-├── .gitignore
-└── README.md
-```
+
 
 ## Usage
 
